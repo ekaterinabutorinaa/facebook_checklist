@@ -1,6 +1,6 @@
 # About
 
-Check-list Facebook.xlsx contains check-lists for checking functions: Log In, Sign Up, Forgot Password in Facebook.com
+Check-list Facebook.xlsx contains check-lists for checking functions: **Log In, Sign Up, Forgot Password** in http://Facebook.com
 
 
 # Description
